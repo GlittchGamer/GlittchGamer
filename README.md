@@ -33,7 +33,7 @@
 	 
 ## Most Used Languages / Tools
 -	Languages
-```C#``` ```Lua``` ```Vue``` ```Python``` ```C++``` ```Html``` ```Ruby``` ```Css``` ```JavaScript``` ```TypeScript```
+```Lua``` ```Html``` ```Css``` ```JavaScript``` ```TypeScript - Currently Learning```
 	 
 - Tools
 ```VisualStudioCode``` ```CodeWalker``` ```OpenIV``` ```HeidiSQL```
